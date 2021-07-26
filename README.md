@@ -1,9 +1,9 @@
 ### Welcome 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guikarist" height="160"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guikarist&locale=en&layout=compact&card_width=350" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guikarist" height="162"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guikarist&locale=en&layout=compact&card_width=350" height="162"/>
 </div>
 
 <!--
