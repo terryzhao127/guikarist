@@ -1,13 +1,13 @@
 ### Welcome 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guikarist&include_all_commits=true&disable_animations=true" height="162"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=terryzhao127&include_all_commits=true&disable_animations=true" height="162"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guikarist&locale=en&layout=compact&card_width=350" height="162"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=terryzhao127&locale=en&layout=compact&card_width=350" height="162"/>
 </div>
 
 <!--
-**guikarist/guikarist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**terryzhao127/terryzhao127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
