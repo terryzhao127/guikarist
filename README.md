@@ -1,9 +1,9 @@
 ### Welcome 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=terryzhao127&include_all_commits=true&disable_animations=true" height="162"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=terryzhao127&include_all_commits=true&disable_animations=true" height="162"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=terryzhao127&locale=en&layout=compact&card_width=350" height="162"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=terryzhao127&locale=en&layout=compact&card_width=350" height="162"/>
 </div>
 
 <!--
